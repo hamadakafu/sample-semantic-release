@@ -50,7 +50,7 @@
     "@semantic-release/changelog",
     "@semantic-release/github",
     ["@semantic-release/git", {
-      "message": "chore(release): ${nextRelease.version} hogehoge [skip ci]"
+      "message": "chore(release): ${nextRelease.version} [skip semantic-release]"
     }]
   ]
 }
