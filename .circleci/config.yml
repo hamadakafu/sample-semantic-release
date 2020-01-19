@@ -5,8 +5,15 @@ jobs:
       - image: circleci/node:10
     steps:
       - checkout
-      - run: npm install
-      - run: npx semantic-release --debug
+      - run: |
+          if git log --format=%B -n 1 | grep -E '.*\[skip semantic-release\].*' >/dev/null; then
+            echo "[skip semantic-release]を含むのでskipします。"
+          else
+            echo "[skip semantic-release]を含まないのでsemantic-releaseを実行します。"
+            npm i
+            npx semantic-release --debug
+          fi
+
 workflows:
   version: 2
   test_and_release:
