@@ -1,0 +1,8 @@
+types:
+  - feat
+  - fix
+  - improvement
+  - chore
+  - docs
+  - perf
+  - refactor

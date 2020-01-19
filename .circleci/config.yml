@@ -1,0 +1,18 @@
+version: 2
+jobs:
+  release:
+    docker:
+      - image: circleci/node:10
+    steps:
+      - checkout
+      - run: npm install
+      - run: npx semantic-release --debug
+workflows:
+  version: 2
+  test_and_release:
+    jobs:
+      - release:
+          filters:
+            branches:
+              only: /^release\/v.*/
+
