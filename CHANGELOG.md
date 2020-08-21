@@ -1,3 +1,11 @@
+### [1.1.5](https://github.com/hamadakafu/sample-semantic-release/compare/v1.1.4...v1.1.5) (2020-08-21)
+
+
+### Bug Fixes
+
+* **fuga:** fix-fuga ([f6da9e7](https://github.com/hamadakafu/sample-semantic-release/commit/f6da9e74b01e8f9e43e76dab789d7d4be6a90e05))
+* **hoge:** fix-hoge ([1f78669](https://github.com/hamadakafu/sample-semantic-release/commit/1f786697367b9967eaea6213d493e06bcd16bcf4))
+
 ### [1.1.4](https://github.com/hamadakafu/sample-semantic-release/compare/v1.1.3...v1.1.4) (2020-08-21)
 
 
