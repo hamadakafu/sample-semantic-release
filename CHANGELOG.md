@@ -1,3 +1,11 @@
+### [1.0.2](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.1...v1.0.2) (2020-08-21)
+
+
+### Bug Fixes
+
+* add hoge string. this is skipped ([37c06e7](https://github.com/hamadakafu/sample-semantic-release/commit/37c06e7820f3d8544c17d81e5b8fdacfddfe82c6))
+* add hogeaifa ([c776b6f](https://github.com/hamadakafu/sample-semantic-release/commit/c776b6fb6eca7685310770b96ab8326f06721f63))
+
 ### [1.0.1](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.0...v1.0.1) (2020-08-21)
 
 
