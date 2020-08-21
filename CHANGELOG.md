@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.3.0...v1.4.0) (2020-08-21)
+
+
+### New Features
+
+* **hoge:** BREAKING CHANGE: breaking-hoge ([02fc81b](https://github.com/hamadakafu/sample-semantic-release/commit/02fc81b346d5e650aaaffcf87353184b036745d8))
+
 ## [1.3.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.2.0...v1.3.0) (2020-08-21)
 
 
