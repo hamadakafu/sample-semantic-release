@@ -31,12 +31,12 @@ feat-fuga:
 breaking-hoge:
 	echo "BREAKING CHANGE hoge" >> hoge
 	git add hoge
-	git commit -m "feat(hoge): BREAKING CHANGE: breaking-hoge"
+	git commit -m "feat(hoge): breaking-hoge" -m "BREAKING CHANGE: this is commit message body"
 	git push
 
 breaking-fuga:
 	echo "BREAKING CHANGE fuga" >> fuga
 	git add fuga
-	git commit -m "feat(fuga): BREAKING CHANGE: breaking-fuga"
+	git commit -m "feat(fuga): breaking-fuga" -m "BREAKING CHANGE: this is commit message body"
 	git push
 
