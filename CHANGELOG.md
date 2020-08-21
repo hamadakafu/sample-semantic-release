@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.0...v1.0.1) (2020-08-21)
+
+
+### Bug Fixes
+
+* hoge ([c719486](https://github.com/hamadakafu/sample-semantic-release/commit/c7194866a0feda23c6a49743ab03ee25ae166956))
+
 ## 1.0.0 (2020-08-21)
 
 
