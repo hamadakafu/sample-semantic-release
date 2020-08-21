@@ -1,3 +1,23 @@
+### [1.1.1](https://github.com/hamadakafu/sample-semantic-release/compare/v1.1.0...v1.1.1) (2020-08-21)
+
+
+### Bug Fixes
+
+* **fuga:** fix-fuga ([299ed69](https://github.com/hamadakafu/sample-semantic-release/commit/299ed6999606cde572fbdcd8eb5dbdcedda20a14))
+* **hoge:** fix-hoge ([3bbf117](https://github.com/hamadakafu/sample-semantic-release/commit/3bbf117d65408aa7776d06c21b187869c62a5a83))
+
+## [1.1.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.4...v1.1.0) (2020-08-21)
+
+
+### Bug Fixes
+
+* **fuga:** fix-fuga ([0adaa5e](https://github.com/hamadakafu/sample-semantic-release/commit/0adaa5e92c519e39bebaacdcae5a0c463f091f7a))
+
+
+### New Features
+
+* Makefileの追加 ([140095e](https://github.com/hamadakafu/sample-semantic-release/commit/140095ec223a72e6883fce450b49a9d51e3cd578))
+
 ### [1.0.4](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.3...v1.0.4) (2020-08-21)
 
 
