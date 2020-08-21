@@ -29,14 +29,14 @@ feat-fuga:
 	git push
 
 breaking-hoge:
-	echo "braking-hoge" >> hoge
+	echo "BREAKING CHANGE hoge" >> hoge
 	git add hoge
-	git commit -m "breaking(hoge): breaking-hoge"
+	git commit -m "BREAKING CHANGE(hoge): breaking-hoge"
 	git push
 
 breaking-fuga:
-	echo "breaking-fuga" >> fuga
+	echo "BREAKING CHANGE fuga" >> fuga
 	git add fuga
-	git commit -m "breaking(fuga): breaking-fuga"
+	git commit -m "BREAKING CHANGE(fuga): breaking-fuga"
 	git push
 
