@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.2...v1.0.3) (2020-08-21)
+
+
+### Bug Fixes
+
+* add figa ([0e92ec9](https://github.com/hamadakafu/sample-semantic-release/commit/0e92ec9a5d4ba87ca15c3d95c9cb4d7925feeed5))
+
 ### [1.0.2](https://github.com/hamadakafu/sample-semantic-release/compare/v1.0.1...v1.0.2) (2020-08-21)
 
 
