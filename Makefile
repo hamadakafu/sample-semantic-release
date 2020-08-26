@@ -46,7 +46,7 @@ breaking-fuga-maybe:
 	git commit -m "feat(fuga): breaking-fuga" -m "BREAKING CHANGE: this is commit message body" -m "hoge"
 	git push
 
-breaking-fuga-one:
+breaking-fuga-no:
 	echo "BREAKING CHANGE fuga" >> fuga
 	git add fuga
 	git commit -m "feat!(fuga): breaking-fuga"

@@ -6,3 +6,7 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
   - cherry-pickしたcommitはorigin/masterにないと変なことになるので注意
 
+
+## Note
+- `feat!(fuga): breaking-fuga`これだとbreakingにならない
+- `feat(fuga)!: breaking-fuga`これならbreakingになる
