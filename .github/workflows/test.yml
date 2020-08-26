@@ -12,4 +12,4 @@ jobs:
       - name: echo hoge
         run: |
           export HOGE=$(echo "hoge")
-          echo $HOGE${{ matrix.env }}
+          echo ${HOGE}${{ matrix.env }}
