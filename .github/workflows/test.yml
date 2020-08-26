@@ -4,6 +4,9 @@ on:
 jobs:
   sample:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        env: ['dev', 'stg', 'prd']
     steps:
       - uses: actions/checkout@v2
-      - run: HOGE=$(echo "hoge") echo $HOGE
+      - run: HOGE=$(echo "hoge") echo $HOGE${{ matrix.env }}
