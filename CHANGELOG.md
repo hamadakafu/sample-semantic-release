@@ -1,3 +1,22 @@
+## [6.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v5.0.0...v6.0.0) (2020-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **makefile:** gheo
+* **fuga:** this is commit message body
+* **readme:** fix readme
+
+### Bug Fixes
+
+* **makefile:** gheo ([91b3922](https://github.com/hamadakafu/sample-semantic-release/commit/91b39229ca52edcfd4c7e8bb7f7b54e6d29e4974))
+* **readme:** fix readme ([ecaff7d](https://github.com/hamadakafu/sample-semantic-release/commit/ecaff7d9963e11eb7a0b856810e4e4f478fb5020))
+
+
+### New Features
+
+* **fuga:** breaking-fuga ([aec4ef4](https://github.com/hamadakafu/sample-semantic-release/commit/aec4ef41c43261ad78a9cfdbff75b866fe56e761))
+
 ## [5.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v4.0.0...v5.0.0) (2020-08-26)
 
 
