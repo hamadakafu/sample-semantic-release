@@ -1,8 +1,8 @@
-name: push next
+name: check test
 on:
   - pull_request
 jobs:
-  release-next:
+  sample:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
