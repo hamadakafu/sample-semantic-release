@@ -1,0 +1,17 @@
+name: check test
+on:
+  - pull_request
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        env: ['dev', 'stg', 'prd']
+    steps:
+      - uses: actions/checkout@v2
+      - name: echo hoge
+        run: |
+          export HOGE=$(echo "hoge")
+          echo ${HOGE}${{ matrix.env }}
+          cd .github
+          ls -la
