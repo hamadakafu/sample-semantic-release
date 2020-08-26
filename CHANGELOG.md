@@ -1,3 +1,16 @@
+## [5.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v4.0.0...v5.0.0) (2020-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fuga:** this is commit message body
+
+hoge
+
+### New Features
+
+* **fuga:** breaking-fuga ([fcaaf6a](https://github.com/hamadakafu/sample-semantic-release/commit/fcaaf6ae59138f149d8fe85177866712541f8653))
+
 ## [4.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v3.0.0...v4.0.0) (2020-08-26)
 
 
