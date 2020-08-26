@@ -1,0 +1,11 @@
+name: push next
+on:
+  push:
+    branches:
+      - next
+jobs:
+  release-next:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: HOGE=$(echo "hoge") echo $HOGE
