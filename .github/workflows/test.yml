@@ -9,4 +9,7 @@ jobs:
         env: ['dev', 'stg', 'prd']
     steps:
       - uses: actions/checkout@v2
-      - run: export HOGE=$(echo "hoge") && echo $HOGE${{ matrix.env }}
+      - name: echo hoge
+        run: |
+          export HOGE=$(echo "hoge")
+          echo $HOGE${{ matrix.env }}
