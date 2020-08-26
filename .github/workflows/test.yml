@@ -1,8 +1,6 @@
 name: push next
 on:
-  push:
-    branches:
-      - next
+  - pull_request
 jobs:
   release-next:
     runs-on: ubuntu-latest
