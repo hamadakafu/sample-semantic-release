@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v3.0.0...v4.0.0) (2020-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **readme:** fix readme
+
+### Bug Fixes
+
+* **readme:** fix readme ([5f32a46](https://github.com/hamadakafu/sample-semantic-release/commit/5f32a4691cff89c3c56aac1b7cd170be86a83446))
+
 ## [3.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v2.0.0...v3.0.0) (2020-08-26)
 
 
