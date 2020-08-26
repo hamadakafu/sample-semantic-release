@@ -40,20 +40,9 @@ breaking-fuga:
 	git commit -m "feat(fuga): breaking-fuga" -m "BREAKING CHANGE: this is commit message body"
 	git push
 
-breaking-fuga-maybe:
-	echo "BREAKING CHANGE fuga" >> fuga
-	git add fuga
-	git commit -m "feat(fuga): breaking-fuga" -m "BREAKING CHANGE: this is commit message body" -m "hoge"
-	git push
-
-breaking-fuga-no:
-	echo "BREAKING CHANGE fuga" >> fuga
-	git add fuga
-	git commit -m "feat!(fuga): breaking-fuga"
-	git push
-
-breaking-fuga-two:
+breaking-fuga-ok:
 	echo "BREAKING CHANGE fuga" >> fuga
 	git add fuga
 	git commit -m "feat(fuga)!: breaking-fuga"
 	git push
+
