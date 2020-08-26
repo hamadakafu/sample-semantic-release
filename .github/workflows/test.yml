@@ -13,3 +13,5 @@ jobs:
         run: |
           export HOGE=$(echo "hoge")
           echo ${HOGE}${{ matrix.env }}
+          cd .github
+          ls -la
