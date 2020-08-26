@@ -1,3 +1,10 @@
+### [6.0.1](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.0...v6.0.1) (2020-08-26)
+
+
+### Bug Fixes
+
+* rm semantic.yml ([#20](https://github.com/hamadakafu/sample-semantic-release/issues/20)) ([b799572](https://github.com/hamadakafu/sample-semantic-release/commit/b7995720be3f7f4b3c47f6fa59933c139ee9acb2))
+
 ## [6.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v5.0.0...v6.0.0) (2020-08-26)
 
 
