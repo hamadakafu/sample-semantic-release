@@ -1,3 +1,11 @@
+### [6.0.3](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.2...v6.0.3) (2020-08-28)
+
+
+### Bug Fixes
+
+* **hoge:** fix-hoge ([fb6ca00](https://github.com/hamadakafu/sample-semantic-release/commit/fb6ca008731290b516aab96a81f5e63dcca2984a))
+* rm semantic.yml ([8659a25](https://github.com/hamadakafu/sample-semantic-release/commit/8659a25cd2dbc736851f7a88611538a968669ad0))
+
 ### [6.0.2](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.1...v6.0.2) (2020-08-28)
 
 
