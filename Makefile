@@ -46,3 +46,11 @@ breaking-fuga-ok:
 	git commit -m "feat(fuga)!: breaking-fuga"
 	git push
 
+fix-hoge-make-dependencies:
+	echo "fix-hoge 1" >> hoge
+	git add hoge
+	git commit -m "fix(hoge): fix-hoge 1"
+	echo "fix-hoge 2" >> hoge
+	git add hoge
+	git commit -m "fix(hoge): fix-hoge 2"
+	git push
