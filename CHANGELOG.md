@@ -1,10 +1,3 @@
-## [6.1.0](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.3...v6.1.0) (2020-09-05)
-
-
-### New Features
-
-* **beta:** hoaf ([#23](https://github.com/hamadakafu/sample-semantic-release/issues/23)) ([430231c](https://github.com/hamadakafu/sample-semantic-release/commit/430231cebe13544ed4f62151f2efa5dafa758afc))
-
 ## [6.2.0-beta.1](https://github.com/hamadakafu/sample-semantic-release/compare/v6.1.0...v6.2.0-beta.1) (2020-09-05)
 
 
