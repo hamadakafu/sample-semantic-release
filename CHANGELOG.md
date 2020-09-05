@@ -1,38 +1,115 @@
-## [2.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.1.5...v2.0.0) (2020-09-05)
+### [6.0.3](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.2...v6.0.3) (2020-08-28)
+
+
+### Bug Fixes
+
+* **hoge:** fix-hoge ([fb6ca00](https://github.com/hamadakafu/sample-semantic-release/commit/fb6ca008731290b516aab96a81f5e63dcca2984a))
+* rm semantic.yml ([8659a25](https://github.com/hamadakafu/sample-semantic-release/commit/8659a25cd2dbc736851f7a88611538a968669ad0))
+
+### [6.0.2](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.1...v6.0.2) (2020-08-28)
+
+
+### Bug Fixes
+
+* **hoge:** fix-hoge ([18d0b8f](https://github.com/hamadakafu/sample-semantic-release/commit/18d0b8f064d16591d81f79015cdd5fd3c2e971e3))
+
+### [6.0.1](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.0...v6.0.1) (2020-08-26)
+
+
+### Bug Fixes
+
+* rm semantic.yml ([#20](https://github.com/hamadakafu/sample-semantic-release/issues/20)) ([b799572](https://github.com/hamadakafu/sample-semantic-release/commit/b7995720be3f7f4b3c47f6fa59933c139ee9acb2))
+
+## [6.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v5.0.0...v6.0.0) (2020-08-26)
 
 
 ### ⚠ BREAKING CHANGES
 
+* **makefile:** gheo
 * **fuga:** this is commit message body
 * **readme:** fix readme
-* **fuga:** this is commit message body
-
-hoge
-* **readme:** fix readme
-* **fuga:** this is commit message body
-* **hoge:** this is commit message body
 
 ### Bug Fixes
 
-* **hoge:** fix-hoge ([9af01cf](https://github.com/hamadakafu/sample-semantic-release/commit/9af01cf3b06ea606163adaa662e5d73bf567bacd))
-* **hoge:** fix-hoge ([39c4f7e](https://github.com/hamadakafu/sample-semantic-release/commit/39c4f7e23b8ee9b497241642059521dd34731572))
-* **hoge:** fix-hoge ([fb6ca00](https://github.com/hamadakafu/sample-semantic-release/commit/fb6ca008731290b516aab96a81f5e63dcca2984a))
-* rm semantic.yml ([8659a25](https://github.com/hamadakafu/sample-semantic-release/commit/8659a25cd2dbc736851f7a88611538a968669ad0))
-* **fuga:** fix-fuga ([787631a](https://github.com/hamadakafu/sample-semantic-release/commit/787631a1970c57aec243ca23a3d20cbd7d45c25e))
+* **makefile:** gheo ([91b3922](https://github.com/hamadakafu/sample-semantic-release/commit/91b39229ca52edcfd4c7e8bb7f7b54e6d29e4974))
 * **readme:** fix readme ([ecaff7d](https://github.com/hamadakafu/sample-semantic-release/commit/ecaff7d9963e11eb7a0b856810e4e4f478fb5020))
-* **readme:** fix readme ([5f32a46](https://github.com/hamadakafu/sample-semantic-release/commit/5f32a4691cff89c3c56aac1b7cd170be86a83446))
 
 
 ### New Features
 
 * **fuga:** breaking-fuga ([aec4ef4](https://github.com/hamadakafu/sample-semantic-release/commit/aec4ef41c43261ad78a9cfdbff75b866fe56e761))
+
+## [5.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v4.0.0...v5.0.0) (2020-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fuga:** this is commit message body
+
+hoge
+
+### New Features
+
 * **fuga:** breaking-fuga ([fcaaf6a](https://github.com/hamadakafu/sample-semantic-release/commit/fcaaf6ae59138f149d8fe85177866712541f8653))
+
+## [4.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v3.0.0...v4.0.0) (2020-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **readme:** fix readme
+
+### Bug Fixes
+
+* **readme:** fix readme ([5f32a46](https://github.com/hamadakafu/sample-semantic-release/commit/5f32a4691cff89c3c56aac1b7cd170be86a83446))
+
+## [3.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v2.0.0...v3.0.0) (2020-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fuga:** this is commit message body
+
+### New Features
+
 * **fuga:** breaking-fuga ([d312bed](https://github.com/hamadakafu/sample-semantic-release/commit/d312bed9d56064565437c660a3c6290d6d19d6d5))
-* **fuga:** feat-fuga ([be30989](https://github.com/hamadakafu/sample-semantic-release/commit/be309897dc8c59d57938c146edf429d1adad7533))
-* **fuga:** feat-fuga ([05d3048](https://github.com/hamadakafu/sample-semantic-release/commit/05d3048951907e809d322a647c7918e4d6937ee1))
-* **hoge:** BREAKING CHANGE breaking-hoge ([c7bd268](https://github.com/hamadakafu/sample-semantic-release/commit/c7bd2683949d2b11e112dc9b19d63e20d6664512))
-* **hoge:** BREAKING CHANGE: breaking-hoge ([02fc81b](https://github.com/hamadakafu/sample-semantic-release/commit/02fc81b346d5e650aaaffcf87353184b036745d8))
+
+## [2.0.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.4.0...v2.0.0) (2020-08-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **hoge:** this is commit message body
+
+### New Features
+
 * **hoge:** breaking-hoge ([adbce71](https://github.com/hamadakafu/sample-semantic-release/commit/adbce71708921359a2031906aa0140303a77bb3a))
+
+## [1.4.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.3.0...v1.4.0) (2020-08-21)
+
+
+### New Features
+
+* **hoge:** BREAKING CHANGE: breaking-hoge ([02fc81b](https://github.com/hamadakafu/sample-semantic-release/commit/02fc81b346d5e650aaaffcf87353184b036745d8))
+
+## [1.3.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.2.0...v1.3.0) (2020-08-21)
+
+
+### Bug Fixes
+
+* **fuga:** fix-fuga ([787631a](https://github.com/hamadakafu/sample-semantic-release/commit/787631a1970c57aec243ca23a3d20cbd7d45c25e))
+
+
+### New Features
+
+* **fuga:** feat-fuga ([05d3048](https://github.com/hamadakafu/sample-semantic-release/commit/05d3048951907e809d322a647c7918e4d6937ee1))
+
+## [1.2.0](https://github.com/hamadakafu/sample-semantic-release/compare/v1.1.5...v1.2.0) (2020-08-21)
+
+
+### New Features
+
+* **hoge:** BREAKING CHANGE breaking-hoge ([c7bd268](https://github.com/hamadakafu/sample-semantic-release/commit/c7bd2683949d2b11e112dc9b19d63e20d6664512))
 
 ### [1.1.5](https://github.com/hamadakafu/sample-semantic-release/compare/v1.1.4...v1.1.5) (2020-08-21)
 
