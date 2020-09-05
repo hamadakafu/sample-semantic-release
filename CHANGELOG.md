@@ -1,3 +1,10 @@
+## [6.2.0-beta.1](https://github.com/hamadakafu/sample-semantic-release/compare/v6.1.0...v6.2.0-beta.1) (2020-09-05)
+
+
+### New Features
+
+* **fuga:** hofajfa ([#21](https://github.com/hamadakafu/sample-semantic-release/issues/21)) ([31ce0db](https://github.com/hamadakafu/sample-semantic-release/commit/31ce0dbbeb869e88d397c294264f925e821c912c))
+
 ## [6.1.0](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.3...v6.1.0) (2020-09-05)
 
 
