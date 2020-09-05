@@ -1,3 +1,13 @@
+## [6.2.0](https://github.com/hamadakafu/sample-semantic-release/compare/v6.1.0...v6.2.0) (2020-09-05)
+
+
+### New Features
+
+* **beta:** hoaf ([#23](https://github.com/hamadakafu/sample-semantic-release/issues/23)) ([430231c](https://github.com/hamadakafu/sample-semantic-release/commit/430231cebe13544ed4f62151f2efa5dafa758afc))
+* **fuga:** feat-fuga ([ec251ce](https://github.com/hamadakafu/sample-semantic-release/commit/ec251ce4fba5dbdf9e1a7656ea04abd8347af810))
+* **fuga:** hofajfa ([#21](https://github.com/hamadakafu/sample-semantic-release/issues/21)) ([31ce0db](https://github.com/hamadakafu/sample-semantic-release/commit/31ce0dbbeb869e88d397c294264f925e821c912c))
+* **release:** ([#22](https://github.com/hamadakafu/sample-semantic-release/issues/22)) ([3b2dd70](https://github.com/hamadakafu/sample-semantic-release/commit/3b2dd701d2b530c271120c683ca236ec0cbbee11))
+
 ## [6.1.0](https://github.com/hamadakafu/sample-semantic-release/compare/v6.0.3...v6.1.0) (2020-09-05)
 
 
