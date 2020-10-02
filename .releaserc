@@ -54,10 +54,6 @@
     }],
     "@semantic-release/changelog",
     "@semantic-release/github",
-    ["@semantic-release/git", {
-      "assets": ["pubspec.yaml"],
-      "message": "chore(release): ${nextRelease.version} [skip semantic-release]"
-    }],
     ["@saithodev/semantic-release-backmerge", {
       "branchName": "master",
       plugins: [
@@ -80,6 +76,10 @@
           ]}
         ],
       ]
-    }]
+    }],
+    ["@semantic-release/git", {
+      "assets": ["pubspec.yaml"],
+      "message": "chore(release): ${nextRelease.version} [skip semantic-release]"
+    }],
   ]
 }
