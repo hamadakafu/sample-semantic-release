@@ -79,6 +79,7 @@
       "branchName": "master",
       "plugins": [
         "@semantic-release/changelog",
+      ],
     }],
   ]
 }
