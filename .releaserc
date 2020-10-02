@@ -56,6 +56,9 @@
     "@semantic-release/github",
     ["@semantic-release/git", {
       "message": "chore(release): ${nextRelease.version} [skip semantic-release]"
+    }],
+    ["@saithodev/semantic-release-backmerge", {
+      "branchName": "master",
     }]
   ]
 }
