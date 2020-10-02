@@ -70,14 +70,16 @@
         ]
       }
     }],
-    "@semantic-release/changelog",
     "@semantic-release/github",
+    ["@saithodev/semantic-release-backmerge", {
+      "branchName": "master",
+      "plugins": [
+        "@semantic-release/changelog",
+      ]
+    }],
     ["@semantic-release/git", {
       "assets": ["pubspec.yaml"],
       "message": "chore(release): ${nextRelease.version} [skip semantic-release]"
-    }],
-    ["@saithodev/semantic-release-backmerge", {
-      "branchName": "master",
     }],
   ]
 }
