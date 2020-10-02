@@ -70,6 +70,7 @@
         ]
       }
     }],
+    "@semantic-release/changelog",
     "@semantic-release/github",
     ["@semantic-release/git", {
       "assets": ["pubspec.yaml"],
@@ -77,9 +78,6 @@
     }],
     ["@saithodev/semantic-release-backmerge", {
       "branchName": "master",
-      "plugins": [
-        "@semantic-release/changelog",
-      ],
     }],
   ]
 }
