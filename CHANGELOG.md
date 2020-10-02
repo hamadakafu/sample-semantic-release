@@ -1,3 +1,11 @@
+### [7.0.1](https://github.com/hamadakafu/sample-semantic-release/compare/v7.0.0...v7.0.1) (2020-10-02)
+
+
+### Bug Fixes
+
+* **fuga:** fix-fuga ([c52cd2a](https://github.com/hamadakafu/sample-semantic-release/commit/c52cd2a206e422b5e4977f5803d2510ecaa10834))
+* **hoge:** fix-hoge ([9a718fa](https://github.com/hamadakafu/sample-semantic-release/commit/9a718fa2bc5faa1958d6c52468bbb90ab97e4e3d))
+
 ### [7.0.1-beta.1](https://github.com/hamadakafu/sample-semantic-release/compare/v7.0.0...v7.0.1-beta.1) (2020-10-02)
 
 
