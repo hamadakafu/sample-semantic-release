@@ -1,3 +1,16 @@
+## [7.0.0-beta.1](https://github.com/hamadakafu/sample-semantic-release/compare/v6.3.0-beta.2...v7.0.0-beta.1) (2020-10-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fuga:** this is commit message body
+* **fuga:** this is commit message body
+
+### New Features
+
+* **fuga:** breaking-fuga ([b036f2a](https://github.com/hamadakafu/sample-semantic-release/commit/b036f2a7a9993d7c73e7cbe099d3eef19736c888))
+* **fuga:** breaking-fuga ([bfa449b](https://github.com/hamadakafu/sample-semantic-release/commit/bfa449b2c7bd2270084962edff062eb58e1925d9))
+
 ## [6.3.0-beta.2](https://github.com/hamadakafu/sample-semantic-release/compare/v6.3.0-beta.1...v6.3.0-beta.2) (2020-10-02)
 
 
