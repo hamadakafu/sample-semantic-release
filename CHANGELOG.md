@@ -1,3 +1,10 @@
+### [7.0.5-beta.1](https://github.com/hamadakafu/sample-semantic-release/compare/v7.0.4...v7.0.5-beta.1) (2020-10-03)
+
+
+### Bug Fixes
+
+* **fuga:** fix-fuga ([3f6dc4f](https://github.com/hamadakafu/sample-semantic-release/commit/3f6dc4f1f2d8480c72fa33bb838bdd86c907b479))
+
 ### [7.0.4](https://github.com/hamadakafu/sample-semantic-release/compare/v7.0.3...v7.0.4) (2020-10-03)
 
 
