@@ -52,19 +52,14 @@
         ]
       }
     }],
+    "@semantic-release/changelog",
+    [
+      "@semantic-release/exec",
+      {
+        "successCmd": "./scripts/semver.sed.sh ${nextRelease.version}"
+      }
+    ]
     "@semantic-release/github",
-    ["@saithodev/semantic-release-backmerge", {
-      "branchName": "master",
-      "plugins": [
-        "@semantic-release/changelog",
-        [
-          "@semantic-release/exec",
-          {
-            "successCmd": "./scripts/semver.sed.sh ${nextRelease.version} && git add pubspec.yaml"
-          }
-        ]
-      ]
-    }],
     ["@semantic-release/git", {
       "assets": ["pubspec.yaml"],
     }],
