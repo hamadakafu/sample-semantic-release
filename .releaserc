@@ -1,8 +1,6 @@
 {
   "branches": [
     "master",
-    "next",
-    {name: "release/v*"},
     {name: "beta", prerelease: true}
   ],
   "plugins": [
