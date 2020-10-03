@@ -1,8 +1,6 @@
 {
   "branches": [
     "master",
-    "next",
-    {name: "release/v*"},
     {name: "beta", prerelease: true}
   ],
   "plugins": [
@@ -61,7 +59,10 @@
     ],
     "@semantic-release/github",
     ["@semantic-release/git", {
-      "assets": ["pubspec.yaml"],
+      "assets": [
+        "pubspec.yaml",
+        "CHANGELOG.md",
+      ],
     }],
-  ]
+  ],
 }
