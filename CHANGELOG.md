@@ -1,3 +1,11 @@
+### [7.0.3-beta.16](https://github.com/hamadakafu/sample-semantic-release/compare/v7.0.3-beta.15...v7.0.3-beta.16) (2020-10-03)
+
+
+### Bug Fixes
+
+* **ci:** fix rc ([6e2d8db](https://github.com/hamadakafu/sample-semantic-release/commit/6e2d8db5840199951b808b98bb882934715d4177))
+* hoge ([0e09d63](https://github.com/hamadakafu/sample-semantic-release/commit/0e09d63b4a08ffca51c3fe0c3d38aa357700abf4))
+
 ### [7.0.3-beta.15](https://github.com/hamadakafu/sample-semantic-release/compare/v7.0.3-beta.14...v7.0.3-beta.15) (2020-10-03)
 
 
